@@ -1,4 +1,4 @@
-# Daily DSA Practice 🚀
+# DSA Practice 🚀
 
 This repository contains my daily Data Structures and Algorithms (DSA) solutions.
 
